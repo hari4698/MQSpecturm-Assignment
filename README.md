@@ -3,7 +3,7 @@ This is the repository for the Java Assignment India.
 
 -The source code is a Liferay Workspace in Ecplise IDE.
 
-#Installation
+# Installation
 -------------
 
 1. Instell Liferay Plugin in the Ecplise IDE.
